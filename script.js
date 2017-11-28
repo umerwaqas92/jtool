@@ -271,3 +271,5 @@
 	document.getElementById("ct_rati").value="";
 	calculate();
 	}
+	
+	

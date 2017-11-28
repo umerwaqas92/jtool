@@ -104,10 +104,7 @@ button.tab_btn:hover{
 	padding:14px;
 }
 
-button.tab_btn:visited{
-	background-color:black;
-	
-}
+
 
 	
 	button {
@@ -115,7 +112,7 @@ button.tab_btn:visited{
   cursor: pointer;
   color: white;
   padding: 15px 40px;
- 
+
   font-size: 22px;
  
   background: #2196F3;

@@ -4,6 +4,9 @@
 		return rati;
 	}
 	
+		function jtool_urdu(){
+		window.open("https://vovoapps.github.io/jtool_urdu/","_self")
+	}
 	function total_price(price,rati){
 	var pr=(rati/96)*price;
 	return pr.toFixed(1) +" rupees" ;
@@ -222,7 +225,7 @@
 	document.getElementById("tab"+tab).style.display="initial";
 		currentTab=tab;
 		
-		
+		document.getElementById("header").scrollTo(100,0);
 	}
 	
 	

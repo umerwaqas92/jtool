@@ -134,6 +134,7 @@
 	
 	function onsload(){
 		tab_click(0);
+		Android.showtoast("Aslam Walikum");
 	}
 	
 	
@@ -219,13 +220,12 @@
 	document.getElementById("tab_btn7").style.color="";
 	
 	
-	
 	document.getElementById("tab_btn"+tab).style.color="#81D4FA";
 	
 	document.getElementById("tab"+tab).style.display="initial";
 		currentTab=tab;
 		
-		document.getElementById("header").scrollTo(100,0);
+	
 	}
 	
 	

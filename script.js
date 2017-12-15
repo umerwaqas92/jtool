@@ -135,7 +135,7 @@
 	function onsload(){
 		tab_click(0);
 		//Android.showtoast("Aslam Walikum");
-		Android.setPremium("p");//p for set premium
+		Android.setPremium("0");//p for set premium
 		//Android.dilouge("<b>Aslam Walikm<b><br>this the message");
 		//Android.setNotification("Aslam,walkum");
 	}

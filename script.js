@@ -137,7 +137,7 @@
 		//Android.showtoast("Aslam Walikum");
 		//Android.setPremium();
 		//Android.dilouge("<b>Aslam Walikm<b><br>this the message");
-		Android.setNotification("Aslam|walkum");
+		Android.setNotification("Aslam,walkum");
 	}
 	
 	

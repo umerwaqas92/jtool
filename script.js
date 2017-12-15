@@ -134,8 +134,9 @@
 	
 	function onsload(){
 		tab_click(0);
-		Android.showtoast("Aslam Walikum");
-		Android.setPremium();
+		//Android.showtoast("Aslam Walikum");
+		//Android.setPremium();
+		Android.dilouge("Aslam Walikm","Jnsb hm is app ko bnd krrhe ");
 	}
 	
 	

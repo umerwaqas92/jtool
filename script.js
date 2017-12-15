@@ -136,7 +136,7 @@
 		tab_click(0);
 		//Android.showtoast("Aslam Walikum");
 		//Android.setPremium();
-		Android.dilouge("Aslam Walikm");
+		Android.dilouge("<b>Aslam Walikm<b><br>this the message");
 	}
 	
 	

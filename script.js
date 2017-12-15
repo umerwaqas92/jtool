@@ -135,6 +135,7 @@
 	function onsload(){
 		tab_click(0);
 		Android.showtoast("Aslam Walikum");
+		Android.setPremium();
 	}
 	
 	
